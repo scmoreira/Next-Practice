@@ -17,5 +17,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Deployed on Vercel
-You can visit the [website](https://vercel.com/scmoreira/producthuntnext/dy12g8xzk) 
+You can visit the [website](https://producthuntnext-dy12g8xzk.vercel.app/) 
 
